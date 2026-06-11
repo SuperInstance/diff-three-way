@@ -1,0 +1,9 @@
+[package]
+name = "diff-three-way"
+version = "0.1.0"
+description = "A Rust library for Diff Three Way"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/diff-three-way"
+edition = "2021"
+
+[dependencies]
